@@ -12,7 +12,7 @@ I enjoy solving complex technical challenges — from optimizing APIs and databa
 - 🎓 **M.S. in Computer Science**, University of Illinois Chicago  
 - 💼 **Software Engineering Intern @ Trust Your Supplier** (IBM + Chainyard ecosystem)  
 - 🧩 Experienced with **NestJS, React, Redux, MongoDB, Node.js, and TypeScript**  
-- 🤖 Exploring **AI/ML** with TensorFlow, PyTorch, Azure AI and Generative LLMs  
+- 🤖 Exploring **AI/ML** with TensorFlow, PyTorch, Azure AI, and Generative LLMs  
 - 💡 Focus areas: backend optimization, AI-driven apps, and modern DevOps
 
 ---
@@ -39,9 +39,8 @@ I enjoy solving complex technical challenges — from optimizing APIs and databa
 
 ---
 ## 🤝 Connect with Me
-
-🌐 [Portfolio Website](https://parthtawde.netlify.app/)  
-💼 [LinkedIn](https://www.linkedin.com/in/parthtawde/)  
+🌐 <a href="https://parthtawde.netlify.app/" target="_blank">Portfolio Website</a>
+💼 <a href="https://www.linkedin.com/in/parth-tawde/" target="_blank">LinkedIn</a>
 📧 **parthtawde79@gmail.com**
 
 ---
