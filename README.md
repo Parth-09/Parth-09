@@ -41,7 +41,7 @@ I enjoy solving complex technical challenges — from optimizing APIs and databa
 
 ## 🧩 Featured Projects
 
-### 🧠 [Memories Project](https://github.com/parthtawde/memories-project)
+### 🧠 [Memories Project](https://github.com/Parth-09/Memories)
 Full-stack social media platform enabling users to share and manage digital memories.  
 - Built with **React**, **Redux**, **Spring Boot**, and **MongoDB**  
 - Implemented **token-based authentication** and **Redis** for access-token management  
@@ -49,7 +49,7 @@ Full-stack social media platform enabling users to share and manage digital memo
 
 ---
 
-### ⚙️ [Gentex Supplier Resolution System](#)
+### ⚙️ [Gentex Supplier Resolution System]
 Backend service suite for supplier management and resolution workflows.  
 - Developed **modular NestJS APIs** for supplier resolution and address splitting  
 - Added **`maxTimeMS` query optimization** in MongoDB reducing timeouts from 1 min → 3 s  
@@ -64,7 +64,7 @@ Interactive **JavaFX** implementation of the Connect 4 game with modular game lo
 
 ---
 
-### 🌍 Language Omegle
+### 🌍 [Language Omegle](https://github.com/jayr1867/language_omegle)
 Real-time multilingual video chat that auto-translates live conversations.
 - Built with **React**, **Node.js**, **Socket.IO**, and **WebRTC**
 - Integrated **Azure Speech/Translate** for live speech-to-text + translation
