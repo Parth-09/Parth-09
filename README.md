@@ -38,54 +38,6 @@ I enjoy solving complex technical challenges — from optimizing APIs and databa
 `Azure Speech`  `Azure Translate`
 
 ---
-
-## 🧩 Featured Projects
-
-### 🧠 [Memories Project](https://github.com/Parth-09/Memories)
-Full-stack social media platform enabling users to share and manage digital memories.  
-- Built with **React**, **Redux**, **Spring Boot**, and **MongoDB**  
-- Implemented **token-based authentication** and **Redis** for access-token management  
-- Optimized query latency by **90%** through database indexing and API refactoring  
-
----
-
-### ⚙️ [Gentex Supplier Resolution System]
-Backend service suite for supplier management and resolution workflows.  
-- Developed **modular NestJS APIs** for supplier resolution and address splitting  
-- Added **`maxTimeMS` query optimization** in MongoDB reducing timeouts from 1 min → 3 s  
-- Documented 40+ API endpoints in **Swagger**, improving cross-team collaboration  
-
----
-
-### 🎮 [Connect4](https://github.com/pranavsrathod/Connect4)
-Interactive **JavaFX** implementation of the Connect 4 game with modular game logic.  
-- Supports two-player mode with dynamic disc placement and restart capability  
-- Demonstrates clean MVC design and event-driven GUI programming  
-
----
-
-### 🌍 [Language Omegle](https://github.com/jayr1867/language_omegle)
-Real-time multilingual video chat that auto-translates live conversations.
-- Built with **React**, **Node.js**, **Socket.IO**, and **WebRTC**
-- Integrated **Azure Speech/Translate** for live speech-to-text + translation
-- Secure session handling (JWT) and room management for 1:1 calls
-- Smooth UX with responsive UI and connection recovery
-
----
-
-### 🔤 [Hangman](https://github.com/pranavsrathod/Hangman)
-Classic console-based **Java Hangman** game demonstrating robust input handling.  
-- Tracks guessed letters, validates input, and renders ASCII visual progress  
-
----
-
-### 🌐 [Portfolio Website](https://parthtawde.netlify.app)
-Personal developer portfolio built with **React**, **Vite**, and **Tailwind CSS**.  
-- Showcases projects, experience, and contact form integration  
-- Features responsive design, smooth animations (Framer Motion), and a custom color palette  
-
----
-
 ## 🤝 Connect with Me
 
 🌐 [Portfolio Website](https://parthtawde.netlify.app/)  
