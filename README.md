@@ -39,8 +39,8 @@ I enjoy solving complex technical challenges — from optimizing APIs and databa
 
 ---
 ## 🤝 Connect with Me
-🌐 <a href="https://parthtawde.netlify.app/" target="_blank">Portfolio Website</a>
-💼 <a href="https://www.linkedin.com/in/parth-tawde/" target="_blank">LinkedIn</a>
+🌐 <a href="https://parthtawde.netlify.app/" target="_blank">Portfolio Website</a>  
+💼 <a href="https://www.linkedin.com/in/parth-tawde/" target="_blank">LinkedIn</a> 
 📧 **parthtawde79@gmail.com**
 
 ---
