@@ -86,14 +86,6 @@ Personal developer portfolio built with **React**, **Vite**, and **Tailwind CSS*
 
 ---
 
-## 📊 GitHub Stats
-
-![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthtawde&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthtawde&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parthtawde&theme=radical)
-
----
-
 ## 🤝 Connect with Me
 
 🌐 [Portfolio Website](https://parthtawde.netlify.app/)  
