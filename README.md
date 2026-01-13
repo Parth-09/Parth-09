@@ -9,7 +9,8 @@
 I'm a software engineer passionate about designing **scalable backend systems**, crafting **interactive frontends**, and exploring the intersection of **AI and automation**.  
 I enjoy solving complex technical challenges — from optimizing APIs and databases to building intelligent tools powered by ML and LLMs.
 
-- 🎓 **M.S. in Computer Science**, University of Illinois Chicago  
+- 🎓 **M.S. in Computer Science**, University of Illinois Chicago
+- 💼 **AI Software Engineer @ Nachway** 
 - 💼 **Software Engineering Intern @ Trust Your Supplier** (IBM + Chainyard ecosystem)  
 - 🧩 Experienced with **NestJS, React, Redux, MongoDB, Node.js, and TypeScript**  
 - 🤖 Exploring **AI/ML** with TensorFlow, PyTorch, Azure AI, and Generative LLMs  
